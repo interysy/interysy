@@ -4,7 +4,10 @@
  
 <br>
  
-<samp align = "center" > My name is Michal and I am currently a student at the University Of Glasgow, looking to get a degree in Electronic and Software Engineering. Although at this moment in time this profile hasn't got too much code, but I am hoping to change that in the future! I have recently finished working on <a href = "https://github.com/interysy/University-Of-Glasgow-Grade-Calculator-Web-App">this</a>, if you would be willing to check it out ! </samp> 
+<samp align = "center" > My name is Michal and I am currently a student at the University Of Glasgow, looking to get a degree in Electronic and Software Engineering. Although at this moment in time this profile hasn't got too much code, I am hoping to change that in the near future!  </samp>
+  
+  
+<samp>  I have recently finished working on <a href = "https://github.com/interysy/University-Of-Glasgow-Grade-Calculator-Web-App">this</a>. While currently I am learning C and working on <a href = "https://github.com/interysy/University-Of-Glasgow-Portal-Integration-Extension">a small firefox extension</a>. Feel free to snoop around! </samp>  
 
 <!--
 **interysy/interysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -18,8 +18,8 @@
 <a href="https://github.com/interysy/SwingClipboardApplication">
   <img align="center" src="https://github-readme-stats-interysy.vercel.app/api/pin/?username=interysy&repo=SwingClipboardApplication&show_owner=true&theme=dracula" />
 </a> 
-<a href="https://github.com/interysy/CoronavirusDiscordBot">
-  <img align="center" src="https://github-readme-stats-interysy.vercel.app/api/pin/?username=interysy&repo=CoronavirusDiscordBot&show_owner=true&theme=dracula" />
+<a href="https://github.com/interysy/Coronavirus-Discord-Bot">
+  <img align="center" src="https://github-readme-stats-interysy.vercel.app/api/pin/?username=interysy&repo=Coronavirus-Discord-Bot&show_owner=true&theme=dracula" />
 </a> 
 <br> 
 <br> 

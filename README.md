@@ -42,8 +42,8 @@
    
  ## I Have A Bit Of Experiance With ...
  
-<div>   
-  <a align = "center">  
+<div align = "center">   
+  <a>  
    <img src="https://github-readme-stats-interysy.vercel.app/api/top-langs/?username=interysy&layout=compact&theme=dracula">
  </a>   
  <br> 

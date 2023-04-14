@@ -44,7 +44,7 @@
  
 <div align = "center">   
   <a>  
-   <img src="https://github-readme-stats-interysy.vercel.app/api/top-langs/?username=interysy&layout=compact&theme=dracula&langs_count=10">
+   <img src="https://github-readme-stats-interysy.vercel.app/api/top-langs/?username=interysy&layout=compact&theme=dracula&langs_count=15">
  </a>   
  <br> 
  <br>
